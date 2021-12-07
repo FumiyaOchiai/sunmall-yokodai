@@ -1,0 +1,24 @@
+// 以下modulesファイルの読み込み
+@import './modules/variables';
+@import './modules/mixin';
+
+// 以下breakpointsの設定
+@import './breakpoints/base';
+// 以下メディアクエリ
+@media screen and (max-width: 1200px) {
+  @import './breakpoints/1200down';
+};
+@media screen and (max-width: 960px) {
+  @import './breakpoints/960down';
+};
+@media screen and (max-width: 768px) {
+  @import './breakpoints/768down';
+}
+@media screen and (max-width: 560px) {
+  @import './breakpoints/560down';
+}
+
+// その他moduleファイル
+// @import 'filename';
+@import './modules/btn-style';
+@import './modules/tag-style';
