@@ -1,0 +1,87 @@
+<svg id="obj-top" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2423.78" height="40" viewBox="0 0 2423.78 40">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="長方形_814" data-name="長方形 814" width="2423.78" height="40" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="長方形_813" data-name="長方形 813" width="2423.781" height="40" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="長方形_806" data-name="長方形 806" width="270" height="36" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <rect id="長方形_807" data-name="長方形 807" width="549.999" height="40" transform="translate(100)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-5">
+      <rect id="長方形_808" data-name="長方形 808" width="588.521" height="40" transform="translate(499.999)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-6">
+      <rect id="長方形_809" data-name="長方形 809" width="600" height="40" transform="translate(800)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-7">
+      <rect id="長方形_810" data-name="長方形 810" width="350" height="40" transform="translate(1250)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-8">
+      <rect id="長方形_811" data-name="長方形 811" width="393.96" height="30.162" transform="translate(1450)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-9">
+      <rect id="長方形_812" data-name="長方形 812" width="538.27" height="38.31" transform="translate(1885.51)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="グループ_1699" data-name="グループ 1699" clip-path="url(#clip-path)">
+    <g id="グループ_1698" data-name="グループ 1698">
+      <g id="グループ_1697" data-name="グループ 1697" clip-path="url(#clip-path-2)">
+        <g id="グループ_1678" data-name="グループ 1678" style="mix-blend-mode: multiply;isolation: isolate">
+          <g id="グループ_1677" data-name="グループ 1677">
+            <g id="グループ_1676" data-name="グループ 1676" clip-path="url(#clip-path-3)">
+              <path id="パス_4265" data-name="パス 4265" d="M0,0S26.281,36,90,36C191.57,36,270,0,270,0Z" fill="#d97933"/>
+            </g>
+          </g>
+        </g>
+        <g id="グループ_1681" data-name="グループ 1681" style="mix-blend-mode: multiply;isolation: isolate">
+          <g id="グループ_1680" data-name="グループ 1680">
+            <g id="グループ_1679" data-name="グループ 1679" clip-path="url(#clip-path-4)">
+              <path id="パス_4266" data-name="パス 4266" d="M100,0s62.426,40,150,40c50,0,82.156-25.3,150-20,35.4,2.767,56.414,20,100,20C589.1,40,650,0,650,0Z" fill="#59b5d1"/>
+            </g>
+          </g>
+        </g>
+        <g id="グループ_1684" data-name="グループ 1684" style="mix-blend-mode: multiply;isolation: isolate">
+          <g id="グループ_1683" data-name="グループ 1683">
+            <g id="グループ_1682" data-name="グループ 1682" clip-path="url(#clip-path-5)">
+              <path id="パス_4267" data-name="パス 4267" d="M1050,0H550c-48.593,10.921-50.052,18.056-50,20,.287,10.76,51.067,20,100,20,33.428,0,67.686-12.8,99.276-20S759.413,7.576,800,7.576c70.272,0,57.852,23.509,128.163,23.509,41.454,0,50.03-25.143,121.837-25.143,21.709,0,38.561-1.837,38.522-3.468C1088.488,1.008,1059.13.239,1050,0" fill="#d97933"/>
+            </g>
+          </g>
+        </g>
+        <g id="グループ_1687" data-name="グループ 1687" style="mix-blend-mode: multiply;isolation: isolate">
+          <g id="グループ_1686" data-name="グループ 1686">
+            <g id="グループ_1685" data-name="グループ 1685" clip-path="url(#clip-path-6)">
+              <path id="パス_4268" data-name="パス 4268" d="M800,0s21.326,40,100,40c43.062,0,200-32.977,250-32.977S1259.862,20,1300,20c78.718,0,100-20,100-20Z" fill="#59b5d1"/>
+            </g>
+          </g>
+        </g>
+        <g id="グループ_1690" data-name="グループ 1690" style="mix-blend-mode: multiply;isolation: isolate">
+          <g id="グループ_1689" data-name="グループ 1689">
+            <g id="グループ_1688" data-name="グループ 1688" clip-path="url(#clip-path-7)">
+              <path id="パス_4269" data-name="パス 4269" d="M1300,0s-50,11.533-50,18.326S1307.758,40,1350,40s62.2-16.154,88.1-15.305,89.27,9.608,117.091,8.577S1600,0,1600,0Z" fill="#d97933"/>
+            </g>
+          </g>
+        </g>
+        <path id="パス_4270" data-name="パス 4270" d="M2000,0H1700s-79.7,9.4,39.881,9.4c86.5,0,81.72,30.6,132.568,30.6C1926.841,40,2000,0,2000,0" fill="#d97933"/>
+        <g id="グループ_1693" data-name="グループ 1693" style="mix-blend-mode: multiply;isolation: isolate">
+          <g id="グループ_1692" data-name="グループ 1692">
+            <g id="グループ_1691" data-name="グループ 1691" clip-path="url(#clip-path-8)">
+              <path id="パス_4271" data-name="パス 4271" d="M1793.961,0s50,3.31,50,14.156-79.916-.6-96.788,0-66.286,18.681-106.66,15.668-46.232-13.347-73.518-14.743C1500.663,11.687,1419.57,0,1461.541,0h332.42Z" fill="#59b5d1"/>
+            </g>
+          </g>
+        </g>
+        <g id="グループ_1696" data-name="グループ 1696" style="mix-blend-mode: multiply;isolation: isolate">
+          <g id="グループ_1695" data-name="グループ 1695">
+            <g id="グループ_1694" data-name="グループ 1694" clip-path="url(#clip-path-9)">
+              <path id="パス_4272" data-name="パス 4272" d="M2422.7,0s18.777,10.258-100,11.061c-58.286.394-75.687,6.652-100,15.593C2186.409,40,2145.025,45.4,2066.943,23.532,2012.932,8.409,1885.509,0,1885.509,0Z" fill="#59b5d1"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
